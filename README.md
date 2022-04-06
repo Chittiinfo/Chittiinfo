@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nag
 - 👀 I’m interested in working on DevOps
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Azure,AWS and DevOps
 - 💞️ I’m looking to collaborate on CI\CD process
 - 📫 How to reach me chittiinfo@gmail.com
 
